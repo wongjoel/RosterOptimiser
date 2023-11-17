@@ -1,0 +1,8 @@
+name = "RosterOptimiser"
+uuid = "5edda92b-0079-41be-9785-3a70b7f77b94"
+authors = ["Joel Wong"]
+version = "0.1.0"
+
+[deps]
+GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
